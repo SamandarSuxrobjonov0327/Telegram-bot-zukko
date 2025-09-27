@@ -9,7 +9,7 @@ import asyncio
 
 API_TOKEN = "8267465259:AAHYRxwccqb-mbj5GJ6_cZqYOu3jycsVOgI"
 CHANNEL_USERNAME = "@RishLaptop"
-ADMIN_ID = 6743839154
+ADMIN_ID = 226830885
 
 logging.basicConfig(level=logging.INFO)
 
