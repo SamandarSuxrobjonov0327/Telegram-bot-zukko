@@ -8,7 +8,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
 API_TOKEN = "8267465259:AAHYRxwccqb-mbj5GJ6_cZqYOu3jycsVOgI"
-CHANNEL_USERNAME = "@zukko_lc"
+CHANNEL_USERNAME = "@RishLaptop"
 ADMIN_ID = 6743839154
 
 logging.basicConfig(level=logging.INFO)
