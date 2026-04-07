@@ -1,4 +1,1 @@
-aiogram==3.10.0
-pydantic==1.10.13
-python-telegram-bot==13.15
-pydantic==1.10.13
+aiogram==2.25.1
